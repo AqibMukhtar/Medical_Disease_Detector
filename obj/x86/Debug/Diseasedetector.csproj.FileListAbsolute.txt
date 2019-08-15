@@ -1,0 +1,13 @@
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\bin\Debug\Diseasedetector.exe.manifest
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\bin\Debug\Diseasedetector.application
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\bin\Debug\Diseasedetector.exe
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\bin\Debug\Diseasedetector.pdb
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.csprojResolveAssemblyReference.cache
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.DiseaseDetector.resources
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.Form1.resources
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.Properties.Resources.resources
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.csproj.GenerateResource.Cache
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.exe.manifest
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.application
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.exe
+C:\Users\samreencomputer\Documents\Visual Studio 2010\Projects\Medical Disease Detector\obj\x86\Debug\Diseasedetector.pdb
